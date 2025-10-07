@@ -17,7 +17,3 @@ __pycache__/
 # Jupyter/IDE
 .ipynb_checkpoints/
 
-# Ignore nested repos (add folder names here if any)
-# Example:
-# subproject1/
-# labs/week2-project/
