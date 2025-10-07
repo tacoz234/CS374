@@ -18,3 +18,15 @@ __pycache__/
 .ipynb_checkpoints/
 
 team14/
+
+HW1/company/departments.csv
+HW1/company/dept_emp.csv
+HW1/company/dept_manager.csv
+HW1/company/employees.csv
+HW1/company/titles.csv
+HW1/world/city.csv
+HW1/world/country.csv
+HW1/world/countrylanguage.csv
+History
+Python_Lab/School-Participation_rates_23_24.csv
+Python_Lab/School_Test_by_level_2023_2024.csv
