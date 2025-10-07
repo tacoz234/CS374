@@ -1,0 +1,737 @@
+
+Query #1
+dept_name	first_name	last_name	hire_date
+Customer Service	Tonny	Butterworth	1985-01-01
+Customer Service	Marjo	Giarratana	1988-02-12
+Customer Service	Xiaobin	Spinelli	1991-08-17
+Customer Service	Yuchang	Weedman	1989-07-10
+Development	Leon	DasSarma	1986-10-21
+Development	DeForest	Hagimont	1985-01-01
+Finance	Ebru	Alpin	1985-01-01
+Finance	Isamu	Legleitner	1985-01-14
+Human Resources	Shirish	Ossenbruggen	1985-01-01
+Human Resources	Karsten	Sigstam	1985-08-04
+Marketing	Margareta	Markovitch	1985-01-01
+Marketing	Vishwani	Minakawa	1986-04-12
+Production	Rosine	Cools	1985-11-22
+Production	Oscar	Ghazalie	1992-02-05
+Production	Shem	Kieras	1988-10-14
+Production	Krassimir	Wegerle	1985-01-01
+Quality Management	Rutger	Hofmeyr	1989-01-07
+Quality Management	Peternela	Onuegbe	1985-01-01
+Quality Management	Dung	Pesch	1989-06-09
+Quality Management	Sanjoy	Quadeer	1986-08-12
+Research	Hilary	Kambil	1988-01-31
+Research	Arie	Staelin	1985-01-01
+Sales	Przemyslawa	Kaelbling	1985-01-01
+Sales	Hauke	Zhang	1986-12-30
+
+Query #2
+dept_name	emp_count
+Customer Service	23580
+Development	85707
+Finance	17346
+Human Resources	17786
+Marketing	20211
+Production	73485
+Quality Management	20117
+Research	21126
+Sales	52245
+
+Query #3
+emp_no	from_date	to_date	birth_date	first_name	last_name
+10064	1985-11-20	1992-03-02	1959-04-07	Udi	Jansch
+11038	1985-07-15	9999-01-01	1955-10-13	Jinya	Beidas
+11184	1985-04-27	9999-01-01	1958-04-01	Masoud	Theuretzbacher
+11458	1985-10-06	9999-01-01	1958-08-09	Stevo	Chenoweth
+12815	1985-02-27	9999-01-01	1955-03-25	Sushant	Junot
+13049	1985-10-06	1986-01-08	1955-08-28	Fan	Naudin
+13552	1985-03-23	9999-01-01	1955-03-23	Ingmar	Capobianchi
+13589	1985-11-16	1987-04-11	1957-07-29	Arfst	Munck
+13846	1985-03-20	9999-01-01	1952-08-01	Guiseppe	Welham
+14293	1985-05-09	1990-09-12	1955-02-10	Qunsheng	Middleton
+14358	1985-09-19	9999-01-01	1956-04-25	Samphel	Serre
+14697	1985-08-02	9999-01-01	1958-08-12	Emdad	Thibadeau
+16365	1985-04-27	9999-01-01	1954-04-29	Janalee	Mellouli
+17478	1985-06-13	1997-08-23	1953-07-27	Tuval	Merle
+18138	1985-08-05	2000-03-10	1954-06-19	Moni	Baezner
+18414	1985-07-31	9999-01-01	1959-02-07	Karlis	Kavanagh
+18807	1985-11-10	9999-01-01	1956-10-21	Jessie	Docker
+19761	1985-08-04	1987-01-06	1959-12-13	Vasiliy	Niizuma
+20528	1985-06-04	9999-01-01	1952-11-13	Dines	Bednarek
+21466	1985-09-12	9999-01-01	1956-10-18	Ugo	Hebert
+21894	1985-06-03	9999-01-01	1952-10-19	Marke	Yemenis
+24127	1985-06-06	9999-01-01	1959-03-11	Fuqing	Bernick
+24183	1985-05-03	9999-01-01	1955-05-21	Muneo	Rousseau
+24844	1985-06-24	1995-06-05	1952-10-18	Anwar	Jumpertz
+25504	1985-09-19	1990-10-29	1952-06-24	Pramod	Servi
+25835	1985-08-26	1986-05-09	1954-05-04	Maria	Poehlman
+26088	1985-06-06	9999-01-01	1953-11-10	Theron	Woycyznski
+26672	1985-09-27	9999-01-01	1957-12-05	Shaleah	Frezza
+26753	1985-10-16	1998-09-24	1955-06-23	Boalin	Decaestecker
+27870	1985-04-28	9999-01-01	1958-03-15	Gao	Braunmuhl
+27926	1985-10-23	9999-01-01	1953-11-12	Mats	Huttel
+28972	1985-04-19	9999-01-01	1955-10-12	Jianhao	Radivojevic
+28983	1985-06-29	9999-01-01	1954-12-24	Mohammed	Luca
+29266	1985-10-17	1987-10-17	1958-08-12	Bader	Suomi
+29759	1985-02-13	9999-01-01	1954-07-14	Arif	Thimonier
+29760	1985-09-11	9999-01-01	1955-09-05	Jinya	Paludetto
+31106	1985-03-25	9999-01-01	1952-11-15	Oscal	Kulisch
+31284	1985-02-21	9999-01-01	1957-11-22	Greger	Christ
+31872	1985-03-26	9999-01-01	1953-05-14	Sanjay	Georgakopoulos
+32541	1985-06-04	9999-01-01	1956-11-02	Gaetan	Bernardeschi
+33197	1985-04-07	9999-01-01	1957-04-29	Dmitry	Riefers
+33522	1985-04-04	1995-01-18	1955-03-13	Gift	Barinka
+33538	1985-05-10	9999-01-01	1958-11-01	Hatsukazu	Kroha
+33799	1985-10-07	9999-01-01	1954-02-02	Kellie	Doering
+34920	1985-10-09	2001-09-24	1955-08-29	Vidya	Wossner
+34947	1985-04-22	9999-01-01	1952-12-12	Mario	Perfilyeva
+37060	1985-06-10	9999-01-01	1952-10-11	Somnath	Morrey
+38472	1985-06-04	9999-01-01	1952-05-14	Masadi	Winter
+38825	1985-07-05	9999-01-01	1959-09-21	Atreye	Jiang
+39152	1985-08-14	9999-01-01	1959-09-27	Kristen	Marakhovsky
+39182	1985-07-06	9999-01-01	1959-06-21	Utpal	Akaboshi
+39276	1985-04-07	9999-01-01	1953-10-10	Alejandro	Busillo
+39292	1985-08-18	1987-03-21	1957-07-19	Rayond	Swick
+39371	1985-05-25	9999-01-01	1956-07-06	Mototsugu	Dusink
+40147	1985-02-17	9999-01-01	1955-04-07	Padma	Gaughan
+40384	1985-07-05	1999-08-31	1955-04-26	Xinan	Irland
+40770	1985-09-26	9999-01-01	1953-05-04	Jiang	Nitta
+42035	1985-09-28	1992-02-09	1957-03-16	Ute	Wolniewicz
+42425	1985-02-04	9999-01-01	1952-11-24	Insup	Ulupinar
+42658	1985-08-24	1986-10-03	1957-08-14	Brewster	Pesch
+43004	1985-04-17	9999-01-01	1958-03-31	Ayakannu	Ishibashi
+44747	1985-10-16	9999-01-01	1957-08-28	Bernardo	Dengi
+44874	1985-10-15	9999-01-01	1954-08-26	Janche	Cools
+45314	1985-03-10	9999-01-01	1955-04-15	Zhigen	Motley
+46082	1985-02-15	9999-01-01	1956-08-09	Chaitali	Shigei
+46089	1985-10-20	9999-01-01	1954-03-09	Giordano	Emden
+46392	1985-05-05	9999-01-01	1952-10-15	Emdad	Zykh
+46893	1985-06-24	1996-12-27	1957-12-31	Foong	Businaro
+47166	1985-10-05	1988-03-30	1952-09-19	Chiranjit	Bade
+47588	1985-08-14	9999-01-01	1957-02-23	Dekang	Gluchowski
+48027	1985-05-29	9999-01-01	1952-04-08	Snehasis	Servieres
+48154	1985-09-11	9999-01-01	1954-12-17	Baocai	Baba
+49007	1985-07-26	9999-01-01	1954-01-14	Hiroyasu	Aamodt
+49279	1985-04-23	9999-01-01	1954-03-09	Jovan	Docker
+50610	1985-11-13	1994-11-29	1953-02-28	Kazuhira	Nyanchama
+51454	1985-02-02	9999-01-01	1957-03-29	Paris	Gischer
+51521	1985-07-17	9999-01-01	1952-03-22	Chinhyun	Gustavson
+51954	1985-07-28	9999-01-01	1959-11-17	Mayuri	Theuretzbacher
+52022	1985-03-28	9999-01-01	1958-06-10	Kwangsub	Atrawala
+52239	1985-06-20	9999-01-01	1957-01-28	Hatsukazu	Nollmann
+56427	1985-09-04	1998-11-08	1958-08-26	Cristinel	Vernadat
+57847	1985-09-07	9999-01-01	1953-09-30	Moon	Kornatzky
+58335	1985-04-03	9999-01-01	1955-03-15	Chenye	Brodie
+58989	1985-05-19	9999-01-01	1956-06-05	Gaetan	Walston
+59123	1985-10-19	9999-01-01	1953-12-30	Margareta	Magalhaes
+60115	1985-05-22	9999-01-01	1954-07-08	Nathalie	Murillo
+60152	1985-07-06	9999-01-01	1953-04-17	Uma	Bashian
+61449	1985-10-06	9999-01-01	1959-09-09	Elvia	Monarch
+62101	1985-05-21	9999-01-01	1956-09-14	Yonghoan	Crooks
+64240	1985-10-28	9999-01-01	1955-07-01	Goncalo	Hoppenstand
+65498	1985-07-26	9999-01-01	1954-12-12	Rildo	Garrabrants
+66612	1985-06-02	9999-01-01	1956-06-26	Arco	Backhouse
+66868	1985-11-02	9999-01-01	1956-11-06	Kasidit	Emmerich
+67829	1985-08-09	1991-01-14	1959-01-06	Francesca	Skafidas
+69112	1985-08-19	1986-07-27	1954-12-21	Saddek	Crabtree
+69170	1985-09-07	1997-01-12	1959-07-23	Aron	Llado
+69405	1985-02-04	9999-01-01	1955-04-03	Lijia	Heping
+69737	1985-06-12	9999-01-01	1952-03-06	Sarita	Conta
+69917	1985-07-06	9999-01-01	1959-05-10	Adhemar	Broder
+70004	1985-04-15	9999-01-01	1954-03-11	Shih	VanScheik
+71256	1985-05-13	1989-06-13	1956-12-07	Amalendu	Kushnir
+72869	1985-06-25	1988-05-12	1952-06-04	Shay	Basagni
+73090	1985-03-27	9999-01-01	1954-04-19	Yoshinari	Takkinen
+73498	1985-07-18	9999-01-01	1956-01-11	Gao	Henders
+73841	1985-06-02	9999-01-01	1954-09-09	Xiaocheng	Beznosov
+73963	1985-09-07	1993-07-09	1958-12-14	Eirik	Jansen
+74903	1985-04-01	9999-01-01	1953-03-09	Xinan	Farris
+76565	1985-11-01	1990-01-06	1955-06-13	Teunis	Manders
+77196	1985-03-13	9999-01-01	1952-04-29	Lillian	Benner
+77295	1985-06-17	9999-01-01	1955-07-18	Weijing	Taubman
+77390	1985-09-02	9999-01-01	1954-12-27	Gully	Larfeldt
+77722	1985-03-11	9999-01-01	1955-03-18	Bodo	Denti
+77842	1985-10-10	1985-12-18	1958-08-13	Barna	Khalid
+78275	1985-05-24	9999-01-01	1956-10-03	Makato	Garnier
+78838	1985-08-08	9999-01-01	1958-04-12	Fumino	Masada
+79405	1985-04-26	9999-01-01	1956-03-10	Parke	Danlos
+81227	1985-03-03	9999-01-01	1956-11-13	Rosita	Anily
+81360	1985-02-02	9999-01-01	1957-11-17	Genki	Jeansoulin
+82849	1985-10-12	9999-01-01	1954-08-27	Makato	VanScheik
+83304	1985-09-14	9999-01-01	1955-03-13	Lenore	Pocchiola
+83334	1985-05-31	9999-01-01	1953-02-25	Arno	Thebaut
+83747	1985-08-26	9999-01-01	1955-01-12	Kristine	Schwabacher
+83783	1985-06-27	1995-07-18	1953-10-19	Mayuri	Baranowski
+84215	1985-11-11	9999-01-01	1959-06-17	Xuejun	Litvinov
+84486	1985-07-14	1997-02-27	1957-02-19	Gully	Mamelak
+84923	1985-04-23	9999-01-01	1957-07-10	Ortrud	Simkin
+85910	1985-08-09	9999-01-01	1955-02-28	Nishit	Lemarechal
+86662	1985-09-01	9999-01-01	1957-09-11	Koldo	Suwa
+86688	1985-10-06	1991-11-14	1957-05-18	Niteen	Krybus
+86952	1985-04-26	9999-01-01	1954-12-01	Richard	Oskamp
+87319	1985-05-23	1987-02-20	1955-08-14	Zita	Bain
+87426	1985-09-26	1998-01-14	1952-08-26	Yucai	Hmelo
+87627	1985-04-27	2000-05-29	1953-11-02	Alagu	Raoux
+87886	1985-09-27	1997-08-04	1952-06-21	Candido	Karnin
+88257	1985-02-20	9999-01-01	1958-08-31	Jacopo	Schapire
+88385	1985-04-30	9999-01-01	1954-11-07	Tran	Besancenot
+89271	1985-02-10	1989-02-01	1956-04-24	Vidya	Facello
+89939	1985-05-03	9999-01-01	1954-12-10	Zhongwei	Larfeldt
+90013	1985-07-15	9999-01-01	1955-07-03	Guenter	Cappelli
+90048	1985-06-28	9999-01-01	1953-10-18	Odinaldo	Duclos
+90331	1985-05-17	1989-02-03	1955-02-21	Luerbio	Matheson
+90935	1985-03-21	1996-07-25	1959-03-15	Chaosheng	Plotkin
+91208	1985-08-05	2002-02-14	1952-11-01	Anwar	Heyers
+92441	1985-05-17	9999-01-01	1955-05-15	Shugo	Bennet
+92557	1985-05-28	9999-01-01	1956-05-16	Serif	Muchinsky
+93134	1985-03-25	9999-01-01	1959-06-13	Masato	Zhiwei
+93970	1985-09-27	1986-03-18	1958-02-16	Fay	Alameldin
+94521	1985-07-10	9999-01-01	1954-06-06	Deborah	Schlegelmilch
+94574	1985-09-09	9999-01-01	1954-08-02	Abdelghani	Dulli
+94626	1985-06-07	9999-01-01	1958-10-12	Mani	Horswill
+95619	1985-06-10	9999-01-01	1957-03-06	Satyanarayana	Fabrizio
+96162	1985-08-31	1992-05-26	1953-04-09	Tokuyasu	Dehkordi
+96224	1985-10-06	9999-01-01	1953-07-11	Manu	Panienski
+96678	1985-04-29	2001-11-23	1955-11-23	Marit	Baak
+96919	1985-03-10	9999-01-01	1955-02-23	Khaled	Granlund
+97223	1985-04-14	9999-01-01	1953-12-01	Zejun	Wuwongse
+97740	1985-08-22	9999-01-01	1953-09-03	Stevo	Bernardinello
+98233	1985-02-19	9999-01-01	1954-03-06	Hausi	Trogemann
+98240	1985-06-05	9999-01-01	1953-02-21	Martien	Stifter
+98454	1985-09-24	9999-01-01	1959-03-09	Arnould	Akiyama
+98457	1985-08-28	9999-01-01	1954-03-26	Bezalel	Standera
+98476	1985-05-27	1991-03-22	1952-09-07	Constantine	Bade
+98699	1985-03-16	9999-01-01	1952-08-02	Karsten	Koyama
+98752	1985-11-07	1997-03-09	1959-10-31	Sanjiv	Kenevan
+101122	1985-03-11	9999-01-01	1954-03-02	Nahla	Swick
+101209	1985-10-29	1987-01-31	1952-09-13	Xiaoheng	Backhouse
+101379	1985-10-14	1985-12-10	1952-04-06	Ult	Lienhardt
+101490	1985-07-06	9999-01-01	1954-08-26	Lein	Morrin
+102284	1985-02-21	9999-01-01	1956-04-05	Fabrizio	Remmele
+102311	1985-04-18	1987-07-14	1958-01-27	Pascal	Kambil
+102765	1985-05-13	9999-01-01	1953-01-29	Arnould	Lipner
+103258	1985-08-18	9999-01-01	1954-03-19	Nathan	Baaz
+104677	1985-11-01	1999-06-06	1954-11-13	Kwee	Spataro
+104940	1985-03-08	1987-10-24	1955-09-19	Tze	Ciolek
+105077	1985-07-31	1990-05-17	1954-02-21	Khue	Clemencon
+105093	1985-03-22	9999-01-01	1952-11-22	Lalit	Fontet
+105512	1985-10-02	9999-01-01	1959-12-05	Sreekrishna	Cincotta
+105602	1985-10-18	1996-02-22	1959-03-29	Narain	Baranowski
+105712	1985-03-11	2000-11-27	1953-01-04	Danel	Kobuchi
+105815	1985-04-15	1988-06-16	1955-05-09	Jianhao	Schaaf
+105926	1985-09-12	9999-01-01	1955-10-15	Shahid	Mansanne
+105952	1985-08-19	9999-01-01	1958-03-01	Mariusz	Perly
+106986	1985-09-11	2000-06-13	1959-01-02	Premal	McClurg
+107528	1985-09-23	9999-01-01	1959-12-11	Gou	Birke
+107809	1985-02-03	9999-01-01	1955-05-14	Mihalis	Facello
+107950	1985-02-06	9999-01-01	1952-04-23	Kagan	Birke
+108700	1985-10-12	9999-01-01	1955-04-08	Sarita	Stanfel
+109851	1985-06-14	9999-01-01	1953-10-31	Heping	Spell
+111400	1985-01-01	9999-01-01	1959-11-09	Arie	Staelin
+200047	1985-05-23	9999-01-01	1954-12-26	Charlene	Miculan
+200331	1985-10-24	1986-05-24	1954-09-27	Mohamadou	Back
+200601	1985-03-18	9999-01-01	1955-03-03	Susuma	Lindqvist
+200794	1985-10-27	1990-03-07	1955-03-18	Maia	Silva
+200868	1985-06-22	9999-01-01	1956-04-14	Gro	Pramanik
+201997	1985-04-07	9999-01-01	1955-03-24	Aran	Baez
+202243	1985-02-04	2000-11-29	1954-11-04	Hidde	Lindenbaum
+202892	1985-06-29	1997-12-12	1956-09-30	Owen	Pokrovskii
+202943	1985-08-02	9999-01-01	1958-01-01	Syozo	Sigstam
+203050	1985-07-03	9999-01-01	1953-09-16	Chandrasekaran	Georg
+203068	1985-06-03	9999-01-01	1957-07-19	Masako	Seuren
+
+Query #4
+emp_no	first_name	last_name	gender	title
+10001	Georgi	Facello	M	Senior Engineer
+10006	Anneke	Preusig	F	Senior Engineer
+10012	Patricio	Bridgland	M	Engineer
+10012	Patricio	Bridgland	M	Senior Engineer
+10014	Berni	Genin	M	Engineer
+10018	Kazuhide	Peha	F	Engineer
+10018	Kazuhide	Peha	F	Senior Engineer
+10022	Shahaf	Famili	M	Engineer
+10023	Bojan	Montemayor	F	Engineer
+10027	Divier	Reistad	F	Engineer
+10027	Divier	Reistad	F	Senior Engineer
+10028	Domenick	Tempesti	M	Engineer
+10031	Karsten	Joslin	M	Engineer
+10031	Karsten	Joslin	M	Senior Engineer
+10037	Pradeep	Makrucki	M	Engineer
+10037	Pradeep	Makrucki	M	Senior Engineer
+10040	Weiyi	Meriste	F	Engineer
+10040	Weiyi	Meriste	F	Senior Engineer
+10043	Yishay	Tzvieli	M	Engineer
+10043	Yishay	Tzvieli	M	Senior Engineer
+10048	Florian	Syrotiuk	M	Engineer
+10056	Brendon	Bernini	F	Engineer
+10056	Brendon	Bernini	F	Senior Engineer
+10057	Ebbe	Callaway	F	Engineer
+10057	Ebbe	Callaway	F	Senior Engineer
+10062	Anoosh	Peyn	M	Engineer
+10062	Anoosh	Peyn	M	Senior Engineer
+10065	Satosi	Awdeh	M	Engineer
+10066	Kwee	Schusler	M	Engineer
+10066	Kwee	Schusler	M	Senior Engineer
+10072	Hironoby	Sidou	F	Engineer
+10072	Hironoby	Sidou	F	Senior Engineer
+10075	Gao	Dolinsky	F	Senior Engineer
+10076	Erez	Ritzmann	F	Senior Engineer
+10078	Danel	Mondadori	F	Engineer
+10090	Kendra	Hofting	M	Senior Engineer
+10091	Amabile	Gomatam	M	Engineer
+10091	Amabile	Gomatam	M	Senior Engineer
+10092	Valdiodio	Niizuma	F	Engineer
+10103	Akemi	Birch	M	Engineer
+10116	Dayanand	Czap	F	Senior Engineer
+10118	Zhonghui	Zyda	F	Senior Engineer
+10121	Guoxiang	Ramsay	M	Engineer
+10121	Guoxiang	Ramsay	M	Senior Engineer
+10127	Subir	Baja	F	Senior Engineer
+10134	Diederik	Siprelle	M	Engineer
+10134	Diederik	Siprelle	M	Senior Engineer
+10139	Ewing	Foong	F	Engineer
+10142	Tzvetan	Hettesheimer	M	Engineer
+10142	Tzvetan	Hettesheimer	M	Senior Engineer
+10143	Sakthirel	Bakhtari	M	Engineer
+10143	Sakthirel	Bakhtari	M	Senior Engineer
+10145	Akemi	Esposito	F	Engineer
+10150	Zhenbing	Perng	F	Engineer
+10150	Zhenbing	Perng	F	Senior Engineer
+10157	Nigel	Aloisi	M	Senior Engineer
+10166	Samphel	Siegrist	F	Engineer
+10169	Sampalli	Snedden	F	Engineer
+10172	Shigeu	Matzen	F	Engineer
+10179	Deniz	Duclos	F	Engineer
+10181	Sibyl	Nooteboom	M	Senior Engineer
+10182	Moriyoshi	Merey	F	Engineer
+10182	Moriyoshi	Merey	F	Senior Engineer
+10189	Khalid	Erva	M	Engineer
+10191	Zdislav	Nastansky	M	Senior Engineer
+10193	Masaru	Cheshire	M	Engineer
+10197	Kasidit	Krzyzanowski	F	Engineer
+10197	Kasidit	Krzyzanowski	F	Senior Engineer
+10198	Pranav	Furedi	M	Engineer
+10198	Pranav	Furedi	M	Senior Engineer
+10201	Idoia	Kavraki	F	Engineer
+10201	Idoia	Kavraki	F	Senior Engineer
+10202	Greger	Lichtner	M	Engineer
+10202	Greger	Lichtner	M	Senior Engineer
+10204	Nevio	Ritcey	F	Engineer
+10207	Girolamo	Anandan	F	Engineer
+10207	Girolamo	Anandan	F	Senior Engineer
+10211	Vishu	Strehl	F	Engineer
+10211	Vishu	Strehl	F	Senior Engineer
+10212	Divier	Esteva	M	Engineer
+10212	Divier	Esteva	M	Senior Engineer
+10223	Carrsten	Schmiedel	F	Engineer
+10238	Mototsugu	Gire	F	Engineer
+10244	Foong	Flasterstein	M	Engineer
+10249	Marie	Boreale	M	Engineer
+10249	Marie	Boreale	M	Senior Engineer
+10258	Basil	Ishibashi	F	Engineer
+10258	Basil	Ishibashi	F	Senior Engineer
+10261	Mang	Erie	M	Senior Engineer
+10264	Nalini	Kawashimo	F	Engineer
+10268	Nishit	Siochi	M	Engineer
+10271	Sham	Eastman	M	Engineer
+10271	Sham	Eastman	M	Senior Engineer
+10274	Dmitri	Pearson	F	Engineer
+10275	Marek	Luck	F	Senior Engineer
+10276	Xuejun	Hempstead	M	Engineer
+10276	Xuejun	Hempstead	M	Senior Engineer
+10278	Lubomir	Nitsch	M	Engineer
+10283	Kauko	Birjandi	M	Engineer
+10283	Kauko	Birjandi	M	Senior Engineer
+10290	Yongmao	Pleszkun	M	Engineer
+10290	Yongmao	Pleszkun	M	Senior Engineer
+10294	Rutger	Miara	M	Senior Engineer
+10305	Hirochika	Piancastelli	M	Engineer
+10311	Hsiangchu	Molenkamp	F	Engineer
+10315	Maris	Angelopoulos	M	Engineer
+10315	Maris	Angelopoulos	M	Senior Engineer
+10318	Mototsugu	Beilner	F	Engineer
+10318	Mototsugu	Beilner	F	Senior Engineer
+10322	Isamu	Dahlbom	F	Engineer
+10322	Isamu	Dahlbom	F	Senior Engineer
+10324	Bernardo	Rouquie	F	Engineer
+10327	Roded	Facello	M	Engineer
+10328	Serenella	Kawashima	M	Engineer
+10333	Snehasis	Dymetman	M	Engineer
+10333	Snehasis	Dymetman	M	Senior Engineer
+10342	Stella	Hiroyama	F	Engineer
+10342	Stella	Hiroyama	F	Senior Engineer
+10345	Arra	Ratnakar	M	Engineer
+10345	Arra	Ratnakar	M	Senior Engineer
+10352	Erzsebet	Ohori	M	Engineer
+10359	Heekeun	Sambasivam	F	Engineer
+10366	Morrie	Piazza	M	Engineer
+10373	Hongzue	Heijenga	M	Engineer
+10379	Mikhail	Rosis	M	Engineer
+10386	Eishiro	Miyakawa	F	Engineer
+10386	Eishiro	Miyakawa	F	Senior Engineer
+10391	Hongzue	Akaboshi	M	Engineer
+10394	Shawna	Meriste	M	Engineer
+10395	Takahiro	Deverell	M	Engineer
+10396	Sibyl	Rahier	M	Senior Engineer
+10404	Prodip	Rosti	F	Engineer
+10404	Prodip	Rosti	F	Senior Engineer
+10409	Mario	Straney	M	Engineer
+10414	Yinlin	Alpin	M	Senior Engineer
+10415	Mark	Coorg	M	Senior Engineer
+10424	Babette	Straney	M	Senior Engineer
+10429	Martien	Improta	F	Senior Engineer
+10435	Marsha	Tagansky	M	Engineer
+10439	Jolita	Jarecki	M	Engineer
+10439	Jolita	Jarecki	M	Senior Engineer
+10443	Shichao	Litvinov	F	Senior Engineer
+10445	Junichi	Kavanagh	F	Engineer
+10445	Junichi	Kavanagh	F	Senior Engineer
+10446	Ebru	Chepyzhov	F	Engineer
+10450	Khun	Harbusch	M	Engineer
+10452	Werner	Hasham	M	Engineer
+10452	Werner	Hasham	M	Senior Engineer
+10460	Shushma	VanScheik	M	Engineer
+10469	Munehiko	Ananiadou	M	Senior Engineer
+10477	Guoxiang	Trogemann	F	Engineer
+10477	Guoxiang	Trogemann	F	Senior Engineer
+10482	Goa	Pleszkun	F	Engineer
+10485	Teruyuki	Sundgren	M	Engineer
+10488	Mihalis	Heering	M	Engineer
+10488	Mihalis	Heering	M	Senior Engineer
+10489	Elvia	Homond	M	Engineer
+10492	Lobel	Kumaresan	M	Engineer
+10492	Lobel	Kumaresan	M	Senior Engineer
+10500	Vojin	Narwekar	M	Engineer
+10501	Susuma	Larfeldt	M	Engineer
+10501	Susuma	Larfeldt	M	Senior Engineer
+10506	Kazuhisa	Kroll	F	Senior Engineer
+10516	Xiadong	Luga	M	Engineer
+10516	Xiadong	Luga	M	Senior Engineer
+10528	Koichi	Lakshmanan	F	Senior Engineer
+10530	Boriana	Coors	F	Engineer
+10530	Boriana	Coors	F	Senior Engineer
+10538	Przemyslawa	Falby	M	Senior Engineer
+10542	Yannis	Couchot	F	Senior Engineer
+10549	Beshir	Kisuki	M	Engineer
+10549	Beshir	Kisuki	M	Senior Engineer
+10553	Rajmohan	Wallrath	F	Engineer
+10553	Rajmohan	Wallrath	F	Senior Engineer
+10554	Dines	Gerlach	M	Engineer
+10554	Dines	Gerlach	M	Senior Engineer
+10557	Sashi	Karlin	M	Engineer
+10557	Sashi	Karlin	M	Senior Engineer
+10560	Yinlin	Esteva	F	Engineer
+10562	Shuky	Pearson	M	Engineer
+10562	Shuky	Pearson	M	Senior Engineer
+10563	Mohit	Spelt	M	Engineer
+10563	Mohit	Spelt	M	Senior Engineer
+10566	Jianhui	Zuberek	F	Engineer
+10571	Fun	Varman	M	Engineer
+10571	Fun	Varman	M	Senior Engineer
+10578	Shigeaki	Shanbhogue	F	Senior Engineer
+10579	Aiman	Stentiford	M	Senior Engineer
+10584	Mana	Papastamatiou	M	Engineer
+10584	Mana	Papastamatiou	M	Senior Engineer
+10585	Sajjad	Willoner	F	Senior Engineer
+10587	Behnaam	Srimani	F	Engineer
+10587	Behnaam	Srimani	F	Senior Engineer
+10593	Falguni	Kenevan	M	Engineer
+10593	Falguni	Kenevan	M	Senior Engineer
+10594	Kiyokazu	Whitcomb	M	Engineer
+10594	Kiyokazu	Whitcomb	M	Senior Engineer
+10604	Susanna	Brizzi	M	Engineer
+10604	Susanna	Brizzi	M	Senior Engineer
+10606	Toshiki	Marakhovsky	M	Engineer
+
+Query #5
+Population	CityName	District	CountryName	Continent
+3038159	Ankara	Ankara	Turkey	Asia
+3276207	Sydney	New South Wales	Australia	Oceania
+3324000	Riyadh	Riyadh	Saudi Arabia	Asia
+3328196	Alexandria	Aleksandria	Egypt	Africa
+3339594	Jokohama [Yokohama]	Kanagawa	Japan	Asia
+3361500	Chengdu	Sichuan	China	Asia
+3361700	Rangoon (Yangon)	Rangoon [Yangon]	Myanmar	Asia
+3386667	Berlin	Berliini	Germany	Europe
+3612850	Dhaka	Dhaka	Bangladesh	Asia
+3694820	Los Angeles	California	United States	North America
+3804522	Pusan	Pusan	South Korea	Asia
+3841396	Chennai (Madras)	Tamil Nadu	India	Asia
+3980000	Ho Chi Minh City	Ho Chi Minh City	Vietnam	Asia
+4017733	Singapore	–	Singapore	Asia
+4256300	Kanton [Guangzhou]	Guangdong	China	Asia
+4265200	Shenyang	Liaoning	China	Asia
+4289800	Harbin	Heilongjiang	China	Asia
+4336000	Baghdad	Baghdad	Iraq	Asia
+4344600	Wuhan	Hubei	China	Asia
+4399819	Calcutta [Kolkata]	West Bengali	India	Asia
+4694000	St Petersburg	Pietari	Russian Federation	Europe
+4703954	Santiago de Chile	Santiago	Chile	South America
+5063499	Lahore	Punjab	Pakistan	Asia
+5064000	Kinshasa	Kinshasa	Congo, The Democratic Republic of the	Africa
+5286800	Tianjin	Tianjin	China	Asia
+5598953	Rio de Janeiro	Rio de Janeiro	Brazil	South America
+6260862	Santafé de Bogotá	Santafé de Bogotá	Colombia	South America
+6320174	Bangkok	Bangkok	Thailand	Asia
+6351600	Chongqing	Chongqing	China	Asia
+6464693	Lima	Lima	Peru	South America
+6758845	Teheran	Teheran	Iran	Asia
+6789479	Cairo	Kairo	Egypt	Africa
+7206704	Delhi	Delhi	India	Asia
+7285000	London	England	United Kingdom	Europe
+7472000	Peking	Peking	China	Asia
+7980230	Tokyo	Tokyo-to	Japan	Asia
+8008278	New York	New York	United States	North America
+8389200	Moscow	Moscow (City)	Russian Federation	Europe
+8591309	Ciudad de México	Distrito Federal	Mexico	North America
+8787958	Istanbul	Istanbul	Turkey	Asia
+9269265	Karachi	Sindh	Pakistan	Asia
+9604900	Jakarta	Jakarta Raya	Indonesia	Asia
+9696300	Shanghai	Shanghai	China	Asia
+9968485	São Paulo	São Paulo	Brazil	South America
+9981619	Seoul	Seoul	South Korea	Asia
+10500000	Mumbai (Bombay)	Maharashtra	India	Asia
+
+Query #6
+CityName	CityPopulation	CountryName	CountryPopulation
+Nassau	172000	Bahamas	307000
+George Town	19600	Cayman Islands	38000
+Avarua	11900	Cook Islands	20000
+Djibouti	383000	Djibouti	638000
+Stanley	1636	Falkland Islands	2000
+Gibraltar	27025	Gibraltar	25000
+Macao	437500	Macao	473000
+Koror	12000	Palau	19000
+Adamstown	42	Pitcairn	50
+Doha	355000	Qatar	599000
+Saint-Pierre	5808	Saint Pierre and Miquelon	7000
+Victoria	41000	Seychelles	77000
+Singapore	4017733	Singapore	3567000
+El-Aaiún	169000	Western Sahara	293000
+
+Query #7
+Name	LocalName	Region	Population	Percentage	Speakers
+Puerto Rico	Puerto Rico	Caribbean	3869000	51.3	1984797.0
+Panama	Panamá	Central America	2856000	76.8	2193408.0
+Paraguay	Paraguay	South America	5496000	55.1	3028296.0
+Uruguay	Uruguay	South America	3337000	95.7	3193509.0
+Costa Rica	Costa Rica	Central America	4023000	97.5	3922425.0
+Nicaragua	Nicaragua	Central America	5074000	97.6	4952224.0
+El Salvador	El Salvador	Central America	6276000	100.0	6276000.0
+Honduras	Honduras	Central America	6485000	97.2	6303420.0
+Bolivia	Bolivia	South America	8329000	87.7	7304533.0
+Guatemala	Guatemala	Central America	11385000	64.7	7366095.0
+Dominican Republic	República Dominicana	Caribbean	8495000	98.0	8325100.0
+Cuba	Cuba	Caribbean	11201000	100.0	11201000.0
+Ecuador	Ecuador	South America	12646000	93.0	11760780.0
+Chile	Chile	South America	15211000	89.7	13644267.0
+Peru	Perú/Piruw	South America	25662000	79.8	20478276.0
+Venezuela	Venezuela	South America	24170000	96.9	23420730.0
+Spain	España	Southern Europe	39441700	74.4	29344625.0
+Argentina	Argentina	South America	37032000	96.8	35846976.0
+Colombia	Colombia	South America	42321000	99.0	41897790.0
+Mexico	México	Central America	98881000	92.1	91069401.0
+
+Query #8
+Name	Region	Languages
+Canada	North America	12
+China	Eastern Asia	12
+India	Southern and Central Asia	12
+Russian Federation	Eastern Europe	12
+United States	North America	12
+South Africa	Southern Africa	11
+Tanzania	Eastern Africa	11
+Congo, The Democratic Republic of the	Central Africa	10
+Iran	Southern and Central Asia	10
+Kenya	Eastern Africa	10
+Mozambique	Eastern Africa	10
+Nigeria	Western Africa	10
+Philippines	Southeast Asia	10
+Sudan	Northern Africa	10
+Uganda	Eastern Africa	10
+Angola	Central Africa	9
+Indonesia	Southeast Asia	9
+Vietnam	Southeast Asia	9
+Australia	Australia and New Zealand	8
+Austria	Western Europe	8
+Cameroon	Central Africa	8
+Chad	Central Africa	8
+Czech Republic	Eastern Europe	8
+Italy	Southern Europe	8
+Liberia	Western Africa	8
+Myanmar	Southeast Asia	8
+Namibia	Southern Africa	8
+Pakistan	Southern and Central Asia	8
+Sierra Leone	Western Africa	8
+Togo	Western Africa	8
+Bangladesh	Southern and Central Asia	7
+Benin	Western Africa	7
+Denmark	Nordic Countries	7
+Ethiopia	Eastern Africa	7
+Guinea	Western Africa	7
+Kyrgyzstan	Southern and Central Asia	7
+Nepal	Southern and Central Asia	7
+Ukraine	Eastern Europe	7
+Belgium	Western Europe	6
+Burkina Faso	Western Africa	6
+Central African Republic	Central Africa	6
+Congo	Central Africa	6
+Eritrea	Eastern Africa	6
+France	Western Europe	6
+Georgia	Middle East	6
+Germany	Western Europe	6
+Ghana	Western Africa	6
+Guinea-Bissau	Western Africa	6
+Hungary	Eastern Europe	6
+Japan	Eastern Asia	6
+Kazakstan	Southern and Central Asia	6
+Latvia	Baltic Countries	6
+Malaysia	Southeast Asia	6
+Mali	Western Africa	6
+Mauritania	Western Africa	6
+Mauritius	Eastern Africa	6
+Mexico	Central America	6
+Micronesia, Federated States of	Micronesia	6
+Mongolia	Eastern Asia	6
+Northern Mariana Islands	Micronesia	6
+Panama	Central America	6
+Romania	Eastern Europe	6
+Senegal	Western Africa	6
+Sweden	Nordic Countries	6
+Taiwan	Eastern Asia	6
+Thailand	Southeast Asia	6
+Uzbekistan	Southern and Central Asia	6
+Yugoslavia	Southern Europe	6
+Zambia	Eastern Africa	6
+Afghanistan	Southern and Central Asia	5
+Botswana	Southern Africa	5
+Brazil	South America	5
+Colombia	South America	5
+Comoros	Eastern Africa	5
+Côte d’Ivoire	Western Africa	5
+Estonia	Baltic Countries	5
+Finland	Nordic Countries	5
+Gambia	Western Africa	5
+Guam	Micronesia	5
+Guatemala	Central America	5
+Hong Kong	Eastern Asia	5
+Iraq	Middle East	5
+Lithuania	Baltic Countries	5
+Luxembourg	Western Europe	5
+Macedonia	Southern Europe	5
+Moldova	Eastern Europe	5
+Nauru	Micronesia	5
+Niger	Western Africa	5
+Norway	Nordic Countries	5
+Réunion	Eastern Africa	5
+Slovakia	Eastern Europe	5
+Andorra	Southern Europe	4
+Aruba	Caribbean	4
+Azerbaijan	Middle East	4
+Belarus	Eastern Europe	4
+Belize	Central America	4
+Bolivia	South America	4
+Brunei	Southeast Asia	4
+Bulgaria	Eastern Europe	4
+Cambodia	Southeast Asia	4
+Chile	South America	4
+Costa Rica	Central America	4
+Gabon	Central Africa	4
+Honduras	Central America	4
+Laos	Southeast Asia	4
+Macao	Eastern Asia	4
+Malawi	Eastern Africa	4
+Monaco	Western Europe	4
+Netherlands	Western Europe	4
+Nicaragua	Central America	4
+Palau	Micronesia	4
+Paraguay	South America	4
+Poland	Eastern Europe	4
+Spain	Southern Europe	4
+Switzerland	Western Europe	4
+Turkmenistan	Southern and Central Asia	4
+Zimbabwe	Eastern Africa	4
+Albania	Southern Europe	3
+American Samoa	Polynesia	3
+Argentina	South America	3
+Bhutan	Southern and Central Asia	3
+Burundi	Eastern Africa	3
+Djibouti	Eastern Africa	3
+French Polynesia	Polynesia	3
+Guyana	South America	3
+Israel	Middle East	3
+Jordan	Middle East	3
+Lebanon	Middle East	3
+Lesotho	Southern Africa	3
+Liechtenstein	Western Europe	3
+Mayotte	Eastern Africa	3
+Netherlands Antilles	Caribbean	3
+New Caledonia	Melanesia	3
+Peru	South America	3
+Samoa	Polynesia	3
+Seychelles	Eastern Africa	3
+Singapore	Southeast Asia	3
+Slovenia	Southern Europe	3
+Solomon Islands	Melanesia	3
+Sri Lanka	Southern and Central Asia	3
+Tajikistan	Southern and Central Asia	3
+Trinidad and Tobago	Caribbean	3
+Tunisia	Northern Africa	3
+Turkey	Middle East	3
+Tuvalu	Polynesia	3
+United Kingdom	British Islands	3
+Vanuatu	Melanesia	3
+Venezuela	South America	3
+Virgin Islands, U.S.	Caribbean	3
+Algeria	Northern Africa	2
+Antigua and Barbuda	Caribbean	2
+Armenia	Middle East	2
+Bahamas	Caribbean	2
+Bahrain	Middle East	2
+Barbados	Caribbean	2
+Cape Verde	Western Africa	2
+Christmas Island	Australia and New Zealand	2
+Cocos (Keeling) Islands	Australia and New Zealand	2
+Cook Islands	Polynesia	2
+Croatia	Southern Europe	2
+Cyprus	Middle East	2
+Dominica	Caribbean	2
+Dominican Republic	Caribbean	2
+East Timor	Southeast Asia	2
+Ecuador	South America	2
+Egypt	Northern Africa	2
+El Salvador	Central America	2
+Equatorial Guinea	Central Africa	2
+Faroe Islands	Nordic Countries	2
+Fiji Islands	Melanesia	2
+French Guiana	South America	2
+Gibraltar	Southern Europe	2
+Greece	Southern Europe	2
+Greenland	North America	2
+Guadeloupe	Caribbean	2
+Haiti	Caribbean	2
+Iceland	Nordic Countries	2
+Ireland	British Islands	2
+Jamaica	Caribbean	2
+Kiribati	Micronesia	2
+Kuwait	Middle East	2
+Libyan Arab Jamahiriya	Northern Africa	2
+Madagascar	Eastern Africa	2
+Maldives	Southern and Central Asia	2
+Malta	Southern Europe	2
+Marshall Islands	Micronesia	2
+Martinique	Caribbean	2
+Morocco	Northern Africa	2
+New Zealand	Australia and New Zealand	2
+Niue	Polynesia	2
+North Korea	Eastern Asia	2
+Oman	Middle East	2
+Palestine	Middle East	2
+Papua New Guinea	Melanesia	2
+Puerto Rico	Caribbean	2
+Qatar	Middle East	2
+Rwanda	Eastern Africa	2
+Saint Kitts and Nevis	Caribbean	2
+Saint Lucia	Caribbean	2
+Saint Vincent and the Grenadines	Caribbean	2
